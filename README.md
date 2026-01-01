@@ -1,13 +1,13 @@
-## 📊 Project 1: Retail Customer Analytics (RFM & Cohort Analysis)
+# 📊 Project 1: Retail Customer Analytics (RFM & Cohort Analysis)
 
-# 🏢 Project Overview
+## 🏢 Project Overview
 
 This project focuses on Retail Customer Behavior Analysis using transactional sales data.
 The goal is to understand customer purchasing patterns, segment customers using RFM Analysis, and analyze customer retention trends using Cohort Analysis.
 
 This project is part of the Infotact Solutions – Enterprise Data Analytics Program (Q4 2025).
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 Clean and structure raw retail sales data
 
@@ -21,7 +21,7 @@ Perform Cohort Analysis to study customer retention over time
 
 Prepare datasets for dashboarding and business insights
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Database: MySQL
 
@@ -33,7 +33,7 @@ Visualization: Power BI
 
 Version Control: Git & GitHub
 
-# 📌 Week-wise Implementation
+## 📌 Week-wise Implementation
 
 🔹 Week 1: Data Engineering & SQL
 
@@ -101,7 +101,7 @@ sales_cohort_analysis_week3.xlsx
 
 Retention trends over time
 
-# 📈 Key Insights
+## 📈 Key Insights
 
 Identified high-value customers for targeted marketing
 
@@ -111,7 +111,7 @@ Analyzed customer retention patterns using cohort analysis
 
 Observed differences in customer behavior based on acquisition month
 
-# 📊 Dashboard Features
+## 📊 Dashboard Features
 
 Sales trend analysis
 

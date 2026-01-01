@@ -1,4 +1,5 @@
-📊 Project 1: Retail Customer Analytics (RFM & Cohort Analysis)
+## 📊 Project 1: Retail Customer Analytics (RFM & Cohort Analysis)
+
 🏢 Project Overview
 
 This project focuses on Retail Customer Behavior Analysis using transactional sales data.

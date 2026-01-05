@@ -123,6 +123,7 @@ Cohort retention matrix
 
 Key KPIs for business decision-making
 
+Implemented RLS (Row Level Security)
 
 👩‍💻 Author
 

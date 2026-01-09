@@ -101,6 +101,41 @@ sales_cohort_analysis_week3.xlsx
 
 Retention trends over time
 
+🔹 Week 4: Automation, Deployment & Final Delivery
+
+In Week 4, the project was extended from analysis to a production-oriented automated analytics solution.
+
+## ⚙️ Automation
+
+Built a complete Python ETL & RFM pipeline (rfm_pipeline.py)
+
+Automated data extraction, transformation, scoring, and segmentation
+
+Deployed automation using Windows Task Scheduler
+
+Validated scheduled and manual execution
+
+## 📊 Business-Ready Outputs
+
+Generated refreshed customer-level RFM datasets
+
+Created a churn-risk action table filtered on “At Risk” segment
+
+Integrated automated outputs with Power BI dashboards
+
+## 📑 Final Deliverables
+
+Executive Power BI dashboard
+
+Automated Python pipeline
+
+Task Scheduler automation proof
+
+Final project report with architecture, insights, and recommendations
+
+Outcome:
+Consumer360 evolved into a fully automated customer intelligence system capable of continuously refreshing customer segments and supporting proactive churn management.
+
 ## 📈 Key Insights
 
 Identified high-value customers for targeted marketing

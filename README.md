@@ -5,7 +5,7 @@
 This project focuses on Retail Customer Behavior Analysis using transactional sales data.
 The goal is to understand customer purchasing patterns, segment customers using RFM Analysis, and analyze customer retention trends using Cohort Analysis.
 
-This project is part of the Infotact Solutions – Enterprise Data Analytics Program (Q4 2025).
+This project is part of the Infotact Solutions – Enterprise Data Analytics Program .
 
 ## 🎯 Objectives
 

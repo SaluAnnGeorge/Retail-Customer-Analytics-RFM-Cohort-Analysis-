@@ -158,6 +158,8 @@ Cohort retention matrix
 
 Key KPIs for business decision-making
 
+Churn-risk customer table
+
 Implemented RLS (Row Level Security)
 
 👩‍💻 Author

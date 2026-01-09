@@ -1,0 +1,794 @@
+Customer Name,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+Aaron Bergman,415,6,886.15,1,1,1,111,Hibernating
+Aaron Hawkins,12,11,1744.6999999999998,5,3,3,533,Champions
+Aaron Smayling,88,10,3050.69,3,2,4,324,Potential Loyalists
+Adam Bellavance,54,18,7755.63,3,5,5,355,Loyal Customers
+Adam Hart,34,20,3250.35,4,5,4,454,Champions
+Adam Shillingsburg,28,25,3255.3,4,5,4,454,Champions
+Adrian Barton,41,20,14473.57,4,5,5,455,Champions
+Adrian Hane,60,16,1735.53,3,4,3,343,Potential Loyalists
+Adrian Shami,41,3,58.82,4,1,1,411,Loyal Customers
+Aimee Bixby,41,12,966.71,4,3,2,432,Loyal Customers
+Alan Barnes,25,14,1113.8500000000001,5,4,2,542,Champions
+Alan Dominguez,29,12,6106.88,4,3,5,435,Loyal Customers
+Alan Haines,55,8,1587.45,3,2,2,322,Potential Loyalists
+Alan Hwang,6,13,4805.35,5,3,5,535,Champions
+Alan Schoenberger,22,13,4260.78,5,3,4,534,Champions
+Alan Shonely,192,10,503.98,2,2,1,221,At Risk
+Alejandro Ballentine,166,14,914.53,2,4,1,241,At Risk
+Alejandro Grove,278,14,2582.9,1,4,3,143,Hibernating
+Alejandro Savely,19,8,3214.24,5,2,4,524,Champions
+Aleksandra Gannaway,118,5,367.55,2,1,1,211,At Risk
+Alex Avila,184,11,5563.56,2,3,5,235,At Risk
+Alex Grayson,8,9,660.97,5,2,1,521,Champions
+Alex Russell,111,5,1055.69,2,1,2,212,At Risk
+Alice McCarthy,28,12,814.01,4,3,1,431,Loyal Customers
+Allen Armold,19,15,1056.39,5,4,2,542,Champions
+Allen Goldenen,114,8,200.95,2,2,1,221,At Risk
+Allen Rosenblatt,125,7,2236.12,2,1,3,213,At Risk
+Alyssa Crouse,232,5,925.8000000000001,1,1,1,111,Hibernating
+Alyssa Tate,21,8,1166.0700000000002,5,2,2,522,Champions
+Amy Cox,11,9,5527.85,5,2,5,525,Champions
+Amy Hunt,230,8,2495.4,1,2,3,123,Hibernating
+Andrew Allen,259,12,1790.51,1,3,3,133,Hibernating
+Andrew Gjertsen,78,14,1419.25,3,4,2,342,Potential Loyalists
+Andrew Roberts,14,7,264.87,5,1,1,511,Champions
+Andy Gerbode,844,9,1455.0400000000002,1,2,2,122,Hibernating
+Andy Reiter,6,9,6608.450000000001,5,2,5,525,Champions
+Andy Yotov,14,10,497.02,5,2,1,521,Champions
+Anemone Ratner,534,2,88.15,1,1,1,111,Hibernating
+Angele Hood,21,5,738.5,5,1,1,511,Champions
+Ann Blume,50,8,1515.86,4,2,2,422,Loyal Customers
+Ann Chong,6,18,2537.69,5,5,3,553,Champions
+Ann Steele,92,12,833.41,3,3,1,331,Potential Loyalists
+Anna Andreadi,55,18,5086.9400000000005,3,5,5,355,Loyal Customers
+Anna Chung,282,6,657.3100000000001,1,1,1,111,Hibernating
+Anna Gayman,97,15,3489.06,3,4,4,344,Loyal Customers
+Anna HÃƒÂ¤berlin,410,23,7888.3,1,5,5,155,At Risk
+Anne McFarland,162,22,5664.0199999999995,2,5,5,255,Potential Loyalists
+Anne Pryor,41,10,545.9300000000001,4,2,1,421,Loyal Customers
+Annie Thurman,13,16,3831.87,5,4,4,544,Champions
+Annie Zypern,160,12,1622.03,2,3,2,232,At Risk
+Anthony Garverick,77,5,170.59,3,1,1,311,Potential Loyalists
+Anthony Jacobs,75,15,4867.34,3,4,5,345,Loyal Customers
+Anthony Johnson,166,21,4501.39,2,5,5,255,Potential Loyalists
+Anthony O'Donnell,501,1,161.28,1,1,1,111,Hibernating
+Anthony Rawles,58,13,4523.33,3,3,5,335,Potential Loyalists
+Anthony Witt,20,8,649.37,5,2,1,521,Champions
+Arianne Irving,13,18,4375.79,5,5,5,555,Champions
+Art Ferguson,41,16,2052.9100000000003,4,4,3,443,Loyal Customers
+Art Foster,415,7,861.57,1,1,1,111,Hibernating
+Arthur Gainer,96,21,4510.79,3,5,5,355,Loyal Customers
+Arthur Prichep,98,31,3323.55,3,5,4,354,Loyal Customers
+Arthur Wiediger,46,16,2852.95,4,4,4,444,Champions
+Ashley Jarboe,121,9,1829.9,2,2,3,223,At Risk
+Astrea Jones,74,5,629.25,3,1,1,311,Potential Loyalists
+Barbara Fisher,91,13,599.79,3,3,1,331,Potential Loyalists
+Barry Blumstein,105,8,744.3299999999999,2,2,1,221,At Risk
+Barry Franz,39,10,1333.8899999999999,4,2,2,422,Loyal Customers
+Barry FranzÃƒÂ¶sisch,74,21,2888.5,3,5,4,354,Loyal Customers
+Barry Gonzalez,28,12,2798.96,4,3,4,434,Loyal Customers
+Barry Pond,83,7,983.42,3,1,2,312,Potential Loyalists
+Barry Weirich,212,3,385.51,2,1,1,211,At Risk
+Bart Folk,25,6,272.95,5,1,1,511,Champions
+Bart Pistole,17,20,2442.05,5,5,3,553,Champions
+Bart Watters,121,17,4750.360000000001,2,4,5,245,Potential Loyalists
+Becky Castell,202,18,2933.67,2,5,4,254,Potential Loyalists
+Becky Martin,307,16,11789.64,1,4,5,145,At Risk
+Becky Pak,89,11,1697.87,3,3,2,332,Potential Loyalists
+Ben Ferrer,16,27,5907.97,5,5,5,555,Champions
+Ben Peterman,1,18,3675.86,5,5,4,554,Champions
+Ben Wallace,203,10,1738.41,2,2,3,223,At Risk
+Benjamin Farhat,65,8,1585.17,3,2,2,322,Potential Loyalists
+Benjamin Patterson,39,6,1181.49,4,1,2,412,Loyal Customers
+Benjamin Venier,334,14,1523.28,1,4,2,142,Hibernating
+Berenike Kampe,77,16,659.15,3,4,1,341,Potential Loyalists
+Beth Fritzler,57,4,791.99,3,1,1,311,Potential Loyalists
+Beth Paige,12,16,2475.16,5,4,3,543,Champions
+Beth Thompson,336,9,2567.66,1,2,3,123,Hibernating
+Bill Donatelli,33,19,5718.53,4,5,5,455,Champions
+Bill Eplett,119,9,4204.68,2,2,4,224,At Risk
+Bill Overfelt,137,12,2682.73,2,3,3,233,At Risk
+Bill Shonely,558,9,10501.650000000001,1,2,5,125,Hibernating
+Bill Stewart,28,13,3887.8199999999997,4,3,4,434,Loyal Customers
+Bill Tyler,302,10,2186.61,1,2,3,123,Hibernating
+Bobby Elias,98,5,2261.44,3,1,3,313,Potential Loyalists
+Bobby Odegard,75,2,130.83,3,1,1,311,Potential Loyalists
+Bobby Trafton,560,7,603.87,1,1,1,111,Hibernating
+Brad Eason,481,10,748.03,1,2,1,121,Hibernating
+Brad Norvell,24,6,265.31,5,1,1,511,Champions
+Brad Thomas,659,3,415.19999999999993,1,1,1,111,Hibernating
+Bradley Drucker,35,10,4411.25,4,2,5,425,Loyal Customers
+Bradley Nguyen,9,17,1459.3400000000001,5,4,2,542,Champions
+Bradley Talbott,91,10,2684.5,3,2,3,323,Potential Loyalists
+Brenda Bowman,28,20,6765.73,4,5,5,455,Champions
+Brendan Dodson,278,4,320.54,1,1,1,111,Hibernating
+Brendan Murry,100,10,808.16,3,2,1,321,Potential Loyalists
+Brendan Sweed,35,10,2454.9300000000003,4,2,3,423,Loyal Customers
+Brian Dahlen,97,15,2783.19,3,4,4,344,Loyal Customers
+Brian DeCherney,69,8,1538.12,3,2,2,322,Potential Loyalists
+Brian Derr,9,5,582.65,5,1,1,511,Champions
+Brian Moss,33,29,7294.18,4,5,5,455,Champions
+Brian Stugart,582,11,3288.12,1,3,4,134,Hibernating
+Brian Thompson,20,20,3196.75,5,5,4,554,Champions
+Brooke Gillingham,36,8,1874.18,4,2,3,423,Loyal Customers
+Brosina Hoffman,23,24,6255.34,5,5,5,555,Champions
+Bruce Degenhardt,93,10,1526.5,3,2,2,322,Potential Loyalists
+Bruce Geld,57,7,1006.35,3,1,2,312,Potential Loyalists
+Bruce Stewart,1,14,2562.38,5,4,3,543,Champions
+Bryan Davis,327,10,658.46,1,2,1,121,Hibernating
+Bryan Mills,218,14,1338.82,2,4,2,242,At Risk
+Bryan Spruell,265,8,949.4300000000001,1,2,2,122,Hibernating
+Candace McMahon,131,10,1673.89,2,2,2,222,At Risk
+Cari Sayre,91,8,1278.96,3,2,2,322,Potential Loyalists
+Cari Schnelling,162,7,537.63,2,1,1,211,At Risk
+Carl Jackson,365,1,16.52,1,1,1,111,Hibernating
+Carl Ludwig,106,7,1262.01,2,1,2,212,At Risk
+Carl Weiss,22,11,1136.5900000000001,5,3,2,532,Champions
+Carlos Daly,40,9,2033.97,4,2,3,423,Loyal Customers
+Carlos Meador,707,4,565.39,1,1,1,111,Hibernating
+Carlos Soltero,25,22,3036.5299999999997,5,5,4,554,Champions
+Carol Adams,96,10,3789.7200000000003,3,2,4,324,Potential Loyalists
+Carol Darley,54,6,639.76,3,1,1,311,Potential Loyalists
+Carol Triggs,96,18,3241.9,3,5,4,354,Loyal Customers
+Caroline Jumper,189,20,11164.97,2,5,5,255,Potential Loyalists
+Cassandra Brandow,47,22,5730.68,4,5,5,455,Champions
+Catherine Glotzbach,49,9,904.48,4,2,1,421,Loyal Customers
+Cathy Armstrong,401,10,1679.72,1,2,2,122,Hibernating
+Cathy Hwang,690,4,1537.24,1,1,2,112,Hibernating
+Cathy Prescott,82,14,5402.25,3,4,5,345,Loyal Customers
+Chad Cunningham,457,12,1685.8899999999999,1,3,2,132,Hibernating
+Chad McGuire,8,7,1661.6100000000001,5,1,2,512,Champions
+Chad Sievert,489,7,884.64,1,1,1,111,Hibernating
+Charles Crestani,106,11,2471.65,2,3,3,233,At Risk
+Charles McCrossin,26,7,2533.3199999999997,5,1,3,513,Champions
+Charles Sheldon,232,8,844.46,1,2,1,121,Hibernating
+Charlotte Melton,8,7,1475.14,5,1,2,512,Champions
+Chloris Kastensmidt,39,32,3154.83,4,5,4,454,Champions
+Chris Cortes,20,21,3670.27,5,5,4,554,Champions
+Chris McAfee,385,8,2305.71,1,2,3,123,Hibernating
+Chris Selesnick,26,28,2754.22,5,5,4,554,Champions
+Christina Anderson,56,16,2638.33,3,4,3,343,Potential Loyalists
+Christina DeMoss,42,13,1205.58,4,3,2,432,Loyal Customers
+Christina VanderZanden,254,13,2830.63,1,3,4,134,Hibernating
+Christine Abelman,13,11,1421.96,5,3,2,532,Champions
+Christine Kargatis,120,12,2945.32,2,3,4,234,At Risk
+Christine Phan,160,14,5817.21,2,4,5,245,Potential Loyalists
+Christine Sundaresam,6,22,3202.16,5,5,4,554,Champions
+Christopher Conant,43,11,12129.08,4,3,5,435,Loyal Customers
+Christopher Martinez,37,10,8954.01,4,2,5,425,Loyal Customers
+Christopher Schild,2,14,3651.86,5,4,4,544,Champions
+Christy Brittain,26,12,1949.21,5,3,3,533,Champions
+Chuck Clark,0,19,2870.05,5,5,4,554,Champions
+Chuck Magee,436,9,288.0,1,2,1,121,Hibernating
+Chuck Sachs,27,6,550.64,4,1,1,411,Loyal Customers
+Cindy Chapman,39,13,1659.45,4,3,2,432,Loyal Customers
+Cindy Schnelling,424,8,970.1099999999999,1,2,2,122,Hibernating
+Cindy Stewart,58,9,5690.07,3,2,5,325,Potential Loyalists
+Claire Gute,338,5,1148.78,1,1,2,112,Hibernating
+Claudia Bergmann,197,19,4246.46,2,5,4,254,Potential Loyalists
+Clay Cheatham,27,4,113.84,4,1,1,411,Loyal Customers
+Clay Ludtke,284,28,10880.56,1,5,5,155,At Risk
+Clay Rozendal,57,6,2148.85,3,1,3,313,Potential Loyalists
+Clytie Kelty,43,25,2372.75,4,5,3,453,Champions
+Corey Catlett,34,12,2540.63,4,3,3,433,Loyal Customers
+Corey Roper,470,4,475.9,1,1,1,111,Hibernating
+Corey-Lock,549,8,1300.08,1,2,2,122,Hibernating
+Corinna Mitchell,27,8,5890.51,4,2,5,425,Loyal Customers
+Craig Carreira,29,14,2269.69,4,4,3,443,Loyal Customers
+Craig Carroll,798,12,2854.12,1,3,4,134,Hibernating
+Craig Leslie,260,7,2335.59,1,1,3,113,Hibernating
+Craig Molinari,1034,13,3984.4500000000003,1,3,4,134,Hibernating
+Craig Reiter,78,6,1600.55,3,1,2,312,Potential Loyalists
+Craig Yedwab,60,10,2004.08,3,2,3,323,Potential Loyalists
+Cyma Kinney,82,14,1582.1100000000001,3,4,2,342,Potential Loyalists
+Cynthia Arntzen,120,17,3041.58,2,4,4,244,Potential Loyalists
+Cynthia Delaney,399,15,1860.74,1,4,3,143,Hibernating
+Cynthia Voltz,5,19,2370.33,5,5,3,553,Champions
+Cyra Reiten,85,7,1397.88,3,1,2,312,Potential Loyalists
+Damala Kotsonis,21,27,3256.48,5,5,4,554,Champions
+Dan Campbell,37,18,3336.17,4,5,4,454,Champions
+Dan Lawera,100,7,444.02,3,1,1,311,Potential Loyalists
+Dan Reichenbach,3,24,6528.03,5,5,5,555,Champions
+Dana Kaydos,45,15,4282.16,4,4,5,445,Champions
+Daniel Byrd,21,12,2171.61,5,3,3,533,Champions
+Daniel Lacy,57,14,3272.2,3,4,4,344,Loyal Customers
+Daniel Raglin,50,13,8350.87,4,3,5,435,Loyal Customers
+Dario Medina,114,9,1322.03,2,2,2,222,At Risk
+Darren Budd,241,10,2469.67,1,2,3,123,Hibernating
+Darren Koutras,7,8,1687.0300000000002,5,2,2,522,Champions
+Darren Powers,126,15,897.52,2,4,1,241,At Risk
+Darrin Martin,57,20,6345.09,3,5,5,355,Loyal Customers
+Darrin Sayre,93,19,1762.21,3,5,3,353,Loyal Customers
+Darrin Van Huff,19,9,1119.48,5,2,2,522,Champions
+Dave Brooks,16,10,4151.51,5,2,4,524,Champions
+Dave Hallsten,277,18,3487.19,1,5,4,154,At Risk
+Dave Kipp,42,13,2650.5499999999997,4,3,3,433,Loyal Customers
+Dave Poirier,6,14,2214.9900000000002,5,4,3,543,Champions
+David Bremer,48,14,2973.09,4,4,4,444,Champions
+David Flashing,699,6,2390.54,1,1,3,113,Hibernating
+David Kendrick,10,5,797.8299999999999,5,1,1,511,Champions
+David Philippe,811,4,1058.62,1,1,2,112,Hibernating
+David Smith,23,20,2881.8,5,5,4,554,Champions
+David Wiener,69,9,1080.76,3,2,2,322,Potential Loyalists
+Dean Braden,9,21,2332.5699999999997,5,5,3,553,Champions
+Dean Katz,10,19,4802.39,5,5,5,555,Champions
+Dean percer,84,29,7198.77,3,5,5,355,Loyal Customers
+Deanra Eno,718,9,2550.87,1,2,3,123,Hibernating
+Deborah Brumfield,53,13,4655.900000000001,4,3,5,435,Loyal Customers
+Debra Catini,23,7,1174.6200000000001,5,1,2,512,Champions
+Deirdre Greer,32,8,3195.82,4,2,4,424,Loyal Customers
+Delfina Latchford,22,17,1458.25,5,4,2,542,Champions
+Denise Leinenbach,57,8,585.02,3,2,1,321,Potential Loyalists
+Denise Monton,22,13,4074.4700000000003,5,3,4,534,Champions
+Dennis Bolton,264,6,1081.47,1,1,2,112,Hibernating
+Dennis Kane,19,23,3318.49,5,5,4,554,Champions
+Dennis Pardue,358,14,5480.73,1,4,5,145,At Risk
+Denny Blanton,187,14,1711.69,2,4,3,243,At Risk
+Denny Joy,637,5,2012.52,1,1,3,113,Hibernating
+Denny Ordway,133,13,1300.03,2,3,2,232,At Risk
+Dianna Arnett,352,8,156.76,1,2,1,121,Hibernating
+Dianna Vittorini,29,13,3254.48,4,3,4,434,Loyal Customers
+Dianna Wilson,217,11,5271.63,2,3,5,235,At Risk
+Dionis Lloyd,76,12,3539.32,3,3,4,334,Potential Loyalists
+Don Jones,48,13,2501.69,4,3,3,433,Loyal Customers
+Don Miller,481,10,1376.8,1,2,2,122,Hibernating
+Don Weiss,98,9,344.08,3,2,1,321,Potential Loyalists
+Dorothy Badders,107,14,3908.8,2,4,4,244,Potential Loyalists
+Dorothy Dickinson,41,9,269.53000000000003,4,2,1,421,Loyal Customers
+Dorothy Wardle,242,10,1204.85,1,2,2,122,Hibernating
+Dorris liebe,119,6,755.6,2,1,1,211,At Risk
+Doug Bickford,33,11,1989.05,4,3,3,433,Loyal Customers
+Doug Jacobs,12,8,3356.4,5,2,4,524,Champions
+Doug O'Connell,26,11,1267.32,5,3,2,532,Champions
+Duane Benoit,12,10,1155.21,5,2,2,522,Champions
+Duane Huffman,775,11,1043.09,1,3,2,132,Hibernating
+Duane Noonan,217,11,2139.79,2,3,3,233,At Risk
+Ed Braxton,48,12,3644.97,4,3,4,434,Loyal Customers
+Ed Jacobs,302,8,2162.1800000000003,1,2,3,123,Hibernating
+Ed Ludwig,77,2,124.28,3,1,1,311,Potential Loyalists
+Edward Becker,35,20,3236.32,4,5,4,454,Champions
+Edward Hooks,135,27,9940.369999999999,2,5,5,255,Potential Loyalists
+Edward Nazzal,287,9,2199.36,1,2,3,123,Hibernating
+Eileen Kiefer,44,4,1303.48,4,1,2,412,Loyal Customers
+Eleni McCrary,132,7,2567.0,2,1,3,213,At Risk
+Elizabeth Moffitt,55,16,2339.6,3,4,3,343,Potential Loyalists
+Ellis Ballard,90,7,964.4499999999999,3,1,2,312,Potential Loyalists
+Elpida Rittenbach,421,5,1245.79,1,1,2,112,Hibernating
+Emily Burns,100,11,2767.2200000000003,3,3,4,334,Potential Loyalists
+Emily Ducich,135,14,3484.9100000000003,2,4,4,244,Potential Loyalists
+Emily Grady,22,9,1832.02,5,2,3,523,Champions
+Emily Phan,12,31,5478.06,5,5,5,555,Champions
+Eric Barreto,161,7,944.6000000000001,2,1,2,212,At Risk
+Eric Hoffmann,217,17,684.18,2,4,1,241,At Risk
+Eric Murdock,151,6,933.6999999999999,2,1,1,211,At Risk
+Erica Bern,0,6,1643.2600000000002,5,1,2,512,Champions
+Erica Hackney,405,8,825.9499999999999,1,2,1,121,Hibernating
+Erica Hernandez,2,11,1219.52,5,3,2,532,Champions
+Erica Smith,40,8,3510.46,4,2,4,424,Loyal Customers
+Erin Ashbrook,152,22,2752.4500000000003,2,5,4,254,Potential Loyalists
+Erin Creighton,53,7,461.90999999999997,4,1,1,411,Loyal Customers
+Erin Mull,47,6,228.99,4,1,1,411,Loyal Customers
+Erin Smith,28,20,4657.93,4,5,5,455,Champions
+Eudokia Martin,113,10,1041.04,2,2,2,222,At Risk
+Eugene Barchas,113,11,3071.14,2,3,4,234,At Risk
+Eugene Hildebrand,152,18,3082.64,2,5,4,254,Potential Loyalists
+Eugene Moren,48,21,4588.44,4,5,5,455,Champions
+Eva Jacobs,57,8,2656.69,3,2,3,323,Potential Loyalists
+Evan Bailliet,82,7,1186.33,3,1,2,312,Potential Loyalists
+Evan Henry,105,8,923.88,2,2,1,221,At Risk
+Evan Minnotte,158,4,366.83,2,1,1,211,At Risk
+Filia McAdams,7,15,2456.64,5,4,3,543,Champions
+Frank Atkinson,97,17,2984.05,3,4,4,344,Loyal Customers
+Frank Carlisle,70,14,3418.7400000000002,3,4,4,344,Loyal Customers
+Frank Gastineau,34,11,1383.1299999999999,4,3,2,432,Loyal Customers
+Frank Hawley,37,21,4256.28,4,5,4,454,Champions
+Frank Merwin,36,20,3736.2,4,5,4,454,Champions
+Frank Olsen,38,15,2678.4300000000003,4,4,3,443,Loyal Customers
+Frank Preis,23,14,4046.75,5,4,4,544,Champions
+Fred Chung,184,10,3889.36,2,2,4,224,At Risk
+Fred Harton,212,14,2271.29,2,4,3,243,At Risk
+Fred Hopkins,5,13,6987.2,5,3,5,535,Champions
+Fred McMath,145,14,2523.26,2,4,3,243,At Risk
+Fred Wasserman,362,3,79.75,1,1,1,111,Hibernating
+Gary Hansen,75,17,2819.46,3,4,4,344,Loyal Customers
+Gary Hwang,50,10,4172.84,4,2,4,424,Loyal Customers
+Gary McGarr,83,11,3582.8199999999997,3,3,4,334,Potential Loyalists
+Gary Mitchum,16,12,3078.63,5,3,4,534,Champions
+Gary Zandusky,7,14,4355.150000000001,5,4,5,545,Champions
+Gene Hale,387,3,1361.24,1,1,2,112,Hibernating
+Gene McClure,106,13,1255.6799999999998,2,3,2,232,At Risk
+George Ashbrook,149,10,3797.23,2,2,4,224,At Risk
+George Bell,62,20,1568.44,3,5,2,352,Loyal Customers
+George Zrebassa,157,5,2454.62,2,1,3,213,At Risk
+Georgia Rosenberg,1135,5,1284.38,1,1,2,112,Hibernating
+Giulietta Baptist,13,16,4716.3,5,4,5,545,Champions
+Giulietta Dortch,5,6,1888.0800000000002,5,1,3,513,Champions
+Giulietta Weimer,28,9,2189.02,4,2,3,423,Loyal Customers
+Grace Kelly,112,14,6497.280000000001,2,4,5,245,Potential Loyalists
+Grant Thornton,56,6,9351.199999999999,3,1,5,315,Potential Loyalists
+Greg Guthrie,43,24,2223.99,4,5,3,453,Champions
+Greg Hansen,2,3,146.94,5,1,1,511,Champions
+Greg Matthias,152,11,3163.63,2,3,4,234,At Risk
+Greg Maxwell,117,11,6049.959999999999,2,3,5,235,At Risk
+Greg Tran,36,29,11820.12,4,5,5,455,Champions
+Guy Armstrong,5,22,1398.3899999999999,5,5,2,552,Champions
+Guy Phonely,764,5,236.53,1,1,1,111,Hibernating
+Guy Thornton,34,7,226.43,4,1,1,411,Loyal Customers
+Hallie Redmond,13,5,940.5899999999999,5,1,2,512,Champions
+Harold Dahlen,768,7,251.36,1,1,1,111,Hibernating
+Harold Engle,12,8,755.4599999999999,5,2,1,521,Champions
+Harold Pawlan,30,10,1990.3100000000002,4,2,3,423,Loyal Customers
+Harold Ryan,159,14,5248.8,2,4,5,245,Potential Loyalists
+Harry Greene,54,10,785.62,3,2,1,321,Potential Loyalists
+Harry Marie,2,20,8236.76,5,5,5,555,Champions
+Heather Jas,126,6,358.1,2,1,1,211,At Risk
+Heather Kirkland,151,15,4877.8,2,4,5,245,Potential Loyalists
+Helen Abelman,69,10,2163.3199999999997,3,2,3,323,Potential Loyalists
+Helen Andreada,20,18,2584.17,5,5,3,553,Champions
+Helen Wasserman,117,15,4827.93,2,4,5,245,Potential Loyalists
+Henia Zydlo,35,6,886.5199999999999,4,1,1,411,Loyal Customers
+Henry Goldwyn,23,17,3247.65,5,4,4,544,Champions
+Henry MacAllister,247,7,736.28,1,1,1,111,Hibernating
+Herbert Flentye,21,19,2533.16,5,5,3,553,Champions
+Hilary Holden,72,6,218.67000000000002,3,1,1,311,Potential Loyalists
+Hunter Glantz,6,11,3690.2799999999997,5,3,4,534,Champions
+Hunter Lopez,43,11,12873.3,4,3,5,435,Loyal Customers
+Ionia McGrath,409,2,48.4,1,1,1,111,Hibernating
+Irene Maddox,390,21,4930.49,1,5,5,155,At Risk
+Ivan Gibson,71,7,744.5699999999999,3,1,1,311,Potential Loyalists
+Ivan Liston,142,14,5040.74,2,4,5,245,Potential Loyalists
+Jack Garza,757,7,2358.6600000000003,1,1,3,113,Hibernating
+Jack Lebron,8,12,1214.95,5,3,2,532,Champions
+Jack O'Briant,57,13,3254.9500000000003,3,3,4,334,Potential Loyalists
+James Galang,1,18,6366.4,5,5,5,555,Champions
+James Lanier,6,7,1571.52,5,1,2,512,Champions
+Jamie Frazer,65,18,2239.61,3,5,3,353,Loyal Customers
+Jamie Kunitz,61,12,4262.29,3,3,5,335,Potential Loyalists
+Jane Waco,42,14,7721.71,4,4,5,445,Champions
+Janet Lee,119,10,2203.7,2,2,3,223,At Risk
+Janet Martin,37,19,3159.11,4,5,4,454,Champions
+Janet Molinari,37,13,1804.14,4,3,3,433,Loyal Customers
+Jas O'Carroll,92,11,1934.27,3,3,3,333,Potential Loyalists
+Jason Fortune-,225,14,955.12,2,4,2,242,At Risk
+Jason Gross,2,11,2240.58,5,3,3,533,Champions
+Jason Klamczynski,287,4,383.80999999999995,1,1,1,111,Hibernating
+Jasper Cacioppo,114,4,71.27,2,1,1,211,At Risk
+Jay Fein,105,16,1911.8400000000001,2,4,3,243,At Risk
+Jay Kimmel,44,16,2136.45,4,4,3,443,Loyal Customers
+Jenna Caffey,175,4,1058.1100000000001,2,1,2,212,At Risk
+Jennifer Braxton,7,16,1791.62,5,4,3,543,Champions
+Jennifer Ferguson,2,13,2309.43,5,3,3,533,Champions
+Jennifer Halladay,5,7,309.28999999999996,5,1,1,511,Champions
+Jennifer Jackson,483,6,709.1700000000001,1,1,1,111,Hibernating
+Jennifer Patt,37,15,1669.1299999999999,4,4,2,442,Loyal Customers
+Jeremy Ellison,193,13,1388.69,2,3,2,232,At Risk
+Jeremy Farry,121,14,890.95,2,4,1,241,At Risk
+Jeremy Lonsdale,49,17,3173.87,4,4,4,444,Champions
+Jeremy Pistek,8,16,3635.59,5,4,4,544,Champions
+Jessica Myrick,102,10,1733.45,3,2,3,323,Potential Loyalists
+Jesus Ocampo,215,11,1090.85,2,3,2,232,At Risk
+Jill Fjeld,54,16,4198.32,3,4,4,344,Loyal Customers
+Jill Matthias,0,7,303.94,5,1,1,511,Champions
+Jill Stevenson,119,8,1417.65,2,2,2,222,At Risk
+Jim Epp,48,20,7754.97,4,5,5,455,Champions
+Jim Karlsson,61,12,3760.0299999999997,3,3,4,334,Potential Loyalists
+Jim Kriz,180,12,4760.44,2,3,5,235,At Risk
+Jim Mitchum,8,12,864.95,5,3,1,531,Champions
+Jim Radford,593,3,1156.6599999999999,1,1,2,112,Hibernating
+Jim Sink,42,9,990.1999999999999,4,2,2,422,Loyal Customers
+Jocasta Rupert,68,1,863.88,3,1,1,311,Potential Loyalists
+Joe Elijah,46,22,8697.86,4,5,5,455,Champions
+Joe Kamberova,84,19,4769.91,3,5,5,355,Loyal Customers
+Joel Eaton,51,23,6760.8099999999995,4,5,5,455,Champions
+Joel Jenkins,752,3,195.0,1,1,1,111,Hibernating
+John Castell,158,16,2772.06,2,4,4,244,Potential Loyalists
+John Dryer,117,7,2152.35,2,1,3,213,At Risk
+John Grady,223,9,1507.02,2,2,2,222,At Risk
+John Huston,174,8,528.92,2,2,1,221,At Risk
+John Lee,21,33,9576.36,5,5,5,555,Champions
+John Lucas,614,11,2725.25,1,3,4,134,Hibernating
+John Murray,109,13,7625.070000000001,2,3,5,235,At Risk
+John Stevenson,534,9,3868.0099999999998,1,2,4,124,Hibernating
+Jonathan Doherty,394,32,7610.87,1,5,5,155,At Risk
+Jonathan Howell,41,9,959.48,4,2,2,422,Loyal Customers
+Joni Blumstein,736,8,900.55,1,2,1,121,Hibernating
+Joni Sundaresam,463,8,469.16,1,2,1,121,Hibernating
+Joni Wasserman,5,10,1049.24,5,2,2,522,Champions
+Joseph Airdo,92,24,6491.03,3,5,5,355,Loyal Customers
+Joseph Holt,29,14,7954.99,4,4,5,445,Champions
+Joy Bell-,43,7,644.12,4,1,1,411,Loyal Customers
+Joy Daniels,112,11,385.43,2,3,1,231,At Risk
+Joy Smith,28,18,2516.49,4,5,3,453,Champions
+Julia Barnett,7,9,2518.11,5,2,3,523,Champions
+Julia Dunbar,300,6,695.4399999999999,1,1,1,111,Hibernating
+Julia West,461,7,1428.73,1,1,2,112,Hibernating
+Juliana Krohn,28,9,3747.66,4,2,4,424,Loyal Customers
+Julie Creighton,57,9,858.5699999999999,3,2,1,321,Potential Loyalists
+Julie Kriz,117,17,2932.49,2,4,4,244,Potential Loyalists
+Julie Prescott,102,13,1707.71,3,3,3,333,Potential Loyalists
+Justin Deggeller,41,17,8828.039999999999,4,4,5,445,Champions
+Justin Ellison,20,7,2697.25,5,1,3,513,Champions
+Justin Hirsh,404,5,2256.39,1,1,3,113,Hibernating
+Justin MacKendrick,57,19,2833.92,3,5,4,354,Loyal Customers
+Justin Ritter,33,10,2201.69,4,2,3,423,Loyal Customers
+Kalyca Meade,14,19,2260.95,5,5,3,553,Champions
+Karen Bern,4,10,3152.61,5,2,4,524,Champions
+Karen Carlisle,407,10,2120.9500000000003,1,3,3,133,Hibernating
+Karen Daniels,484,16,8282.36,1,4,5,145,At Risk
+Karen Ferguson,97,18,10604.26,3,5,5,355,Loyal Customers
+Karen Seio,295,4,88.47,1,1,1,111,Hibernating
+Karl Braun,296,22,1569.45,1,5,2,152,At Risk
+Katharine Harms,40,18,3312.87,4,5,4,454,Champions
+Katherine Ducich,41,10,1888.96,4,3,3,433,Loyal Customers
+Katherine Hughes,1,14,3100.6,5,4,4,544,Champions
+Katherine Murray,56,20,5620.18,3,5,5,355,Loyal Customers
+Katherine Nockton,19,15,2224.1,5,4,3,543,Champions
+Katrina Bavinger,117,9,908.8199999999999,2,2,1,221,At Risk
+Katrina Edelman,26,12,1453.28,5,3,2,532,Champions
+Katrina Willman,96,10,4416.52,3,3,5,335,Potential Loyalists
+Kean Nguyen,52,8,2171.97,4,2,3,423,Loyal Customers
+Kean Takahito,391,14,3057.1,1,4,4,144,At Risk
+Kean Thornton,100,13,4642.1,3,3,5,335,Potential Loyalists
+Keith Dawkins,112,28,8181.240000000001,2,5,5,255,Potential Loyalists
+Keith Herrera,22,20,5229.7,5,5,5,555,Champions
+Kelly Andreada,36,11,1519.51,4,3,2,432,Loyal Customers
+Kelly Collister,97,5,3908.27,3,1,4,314,Potential Loyalists
+Kelly Lampkin,16,22,5016.47,5,5,5,555,Champions
+Kelly Williams,770,5,449.1,1,1,1,111,Hibernating
+Ken Black,230,23,2744.7400000000002,1,5,4,154,At Risk
+Ken Brennan,1,9,983.9300000000001,5,2,2,522,Champions
+Ken Dana,289,7,907.16,1,2,1,121,Hibernating
+Ken Heidel,58,17,3918.96,3,4,4,344,Loyal Customers
+Ken Lonsdale,47,29,14175.23,4,5,5,455,Champions
+Khloe Miller,15,9,453.53999999999996,5,2,1,521,Champions
+Kimberly Carter,57,7,1146.05,3,2,2,322,Potential Loyalists
+Kristen Hastings,2,15,5990.79,5,4,5,545,Champions
+Kristina Nunn,98,12,2003.01,3,3,3,333,Potential Loyalists
+Kunst Miller,28,28,4909.47,4,5,5,455,Champions
+Larry Blacks,48,3,50.19,4,1,1,411,Loyal Customers
+Larry Hughes,151,3,287.43,2,1,1,211,At Risk
+Larry Tron,26,3,329.87,5,1,1,511,Champions
+Laura Armstrong,154,26,8673.23,2,5,5,255,Potential Loyalists
+Laurel Beltran,152,24,4985.68,2,5,5,255,Potential Loyalists
+Laurel Elliston,21,9,1469.45,5,2,2,522,Champions
+Laurel Workman,88,15,2238.06,3,4,3,343,Potential Loyalists
+Lauren Leatherbury,249,10,2454.5499999999997,1,3,3,133,Hibernating
+Lela Donovan,552,1,5.3,1,1,1,111,Hibernating
+Lena Cacioppo,27,30,2580.71,4,5,3,453,Champions
+Lena Creighton,16,23,7663.13,5,5,5,555,Champions
+Lena Hernandez,21,15,2295.32,5,4,3,543,Champions
+Lena Radford,26,16,5142.89,5,4,5,545,Champions
+Linda Cazamias,41,14,4492.9400000000005,4,4,5,445,Champions
+Linda Southworth,178,14,2845.27,2,4,4,244,Potential Loyalists
+Lindsay Castell,436,7,3246.63,1,2,4,124,Hibernating
+Lindsay Shagiari,20,22,2988.65,5,5,4,554,Champions
+Lindsay Williams,33,11,3230.3,4,3,4,434,Loyal Customers
+Lisa DeCherney,414,7,1961.9299999999998,1,2,3,123,Hibernating
+Lisa Hazard,239,6,318.23,1,1,1,111,Hibernating
+Lisa Ryan,132,12,1879.3,2,3,3,233,At Risk
+Liz Carlisle,54,9,2095.06,3,2,3,323,Potential Loyalists
+Liz MacKendrick,391,7,1346.78,1,2,2,122,Hibernating
+Liz Pelletier,40,9,756.6,4,2,1,421,Loyal Customers
+Liz Preis,9,13,3104.44,5,3,4,534,Champions
+Liz Thompson,34,14,2936.26,4,4,4,444,Champions
+Liz Willingham,205,5,1259.04,2,1,2,212,At Risk
+Logan Currie,13,19,2633.57,5,5,3,553,Champions
+Logan Haushalter,385,19,1739.69,1,5,3,153,At Risk
+Lori Olson,2,9,644.35,5,2,1,521,Champions
+Luke Foster,22,16,3930.52,5,4,4,544,Champions
+Luke Schmidt,96,14,1010.25,3,4,2,342,Potential Loyalists
+Luke Weiss,21,15,5420.5199999999995,5,4,5,545,Champions
+Lycoris Saunders,776,6,368.88,1,1,1,111,Hibernating
+Lynn Smith,34,12,1008.14,4,3,2,432,Loyal Customers
+Magdelene Morse,168,6,1314.02,2,1,2,212,At Risk
+Marc Crier,76,13,2725.98,3,3,4,334,Potential Loyalists
+Marc Harrigan,294,10,1691.5,1,3,2,132,Hibernating
+Maria Bertelson,48,19,1548.71,4,5,2,452,Champions
+Maria Etezadi,42,22,10663.73,4,5,5,455,Champions
+Maria Zettner,30,6,593.61,4,1,1,411,Loyal Customers
+Maribeth Dona,117,15,2716.43,2,4,4,244,Potential Loyalists
+Maribeth Schnelling,273,24,7443.68,1,5,5,155,At Risk
+Maribeth Yedwab,29,13,2254.29,4,3,3,433,Loyal Customers
+Marina Lichtenstein,69,20,2722.84,3,5,4,354,Loyal Customers
+Maris LaWare,54,14,2885.27,3,4,4,344,Loyal Customers
+Mark Cousins,399,10,4432.139999999999,1,3,5,135,Hibernating
+Mark Haberlin,376,9,400.02,1,2,1,121,Hibernating
+Mark Hamilton,170,9,2146.69,2,2,3,223,At Risk
+Mark Packer,718,12,2945.81,1,3,4,134,Hibernating
+Mark Van Huff,27,15,1560.03,4,4,2,442,Loyal Customers
+Mary O'Rourke,72,5,922.49,3,1,1,311,Potential Loyalists
+Mary Zewe,282,10,2564.89,1,3,3,133,Hibernating
+MaryBeth Skach,434,7,475.65999999999997,1,2,1,121,Hibernating
+Mathew Reese,125,6,639.1800000000001,2,1,1,211,At Risk
+Matt Abelman,64,34,4299.16,3,5,5,355,Loyal Customers
+Matt Collins,27,11,1303.89,4,3,2,432,Loyal Customers
+Matt Collister,51,17,2426.07,4,4,3,443,Loyal Customers
+Matt Connell,112,18,2258.2,2,5,3,253,Potential Loyalists
+Matt Hagelstein,155,6,1252.8,2,1,2,212,At Risk
+Matthew Clasen,189,8,795.15,2,2,1,221,At Risk
+Matthew Grinstein,29,14,3785.28,4,4,4,444,Champions
+Maureen Fritzler,421,8,937.05,1,2,2,122,Hibernating
+Maureen Gastineau,92,10,2350.2000000000003,3,3,3,333,Potential Loyalists
+Maureen Gnade,555,7,1342.29,1,2,2,122,Hibernating
+Maurice Satty,413,15,1613.39,1,4,2,142,Hibernating
+Max Engle,28,13,1908.45,4,3,3,433,Loyal Customers
+Max Jones,22,15,6320.75,5,4,5,545,Champions
+Max Ludwig,29,13,2071.91,4,3,3,433,Loyal Customers
+Maxwell Schwartz,121,19,3144.67,2,5,4,254,Potential Loyalists
+Maya Herman,98,11,2203.78,3,3,3,333,Potential Loyalists
+Meg O'Connel,104,11,1687.03,3,3,2,332,Potential Loyalists
+Meg Tillman,49,10,2890.14,4,3,4,434,Loyal Customers
+Melanie Seite,452,5,370.34000000000003,1,1,1,111,Hibernating
+Michael Chen,1,14,3805.71,5,4,4,544,Champions
+Michael Dominguez,36,8,1204.91,4,2,2,422,Loyal Customers
+Michael Grace,116,7,1242.84,2,2,2,222,At Risk
+Michael Granlund,99,13,776.39,3,4,1,341,Potential Loyalists
+Michael Kennedy,28,17,2302.36,4,4,3,443,Loyal Customers
+Michael Moore,7,15,3640.25,5,4,4,544,Champions
+Michael Nguyen,34,10,2477.94,4,3,3,433,Loyal Customers
+Michael Oakman,180,4,154.29,2,1,1,211,At Risk
+Michael Paige,72,20,3983.65,3,5,4,354,Loyal Customers
+Michael Stewart,26,11,855.12,5,3,1,531,Champions
+Michelle Arnett,186,12,2453.2900000000004,2,3,3,233,At Risk
+Michelle Ellison,92,6,1256.95,3,1,2,312,Potential Loyalists
+Michelle Huthwaite,49,10,2984.95,4,3,4,434,Loyal Customers
+Michelle Lonsdale,79,4,742.08,3,1,1,311,Potential Loyalists
+Michelle Moray,61,19,2749.87,3,5,4,354,Loyal Customers
+Michelle Tran,203,11,1319.44,2,3,2,232,At Risk
+Mick Brown,44,10,1428.24,4,3,2,432,Loyal Customers
+Mick Crebagga,41,19,2218.99,4,5,3,453,Champions
+Mick Hernandez,5,22,5503.09,5,5,5,555,Champions
+Mike Caudle,369,11,1581.99,1,3,2,132,Hibernating
+Mike Gockenbach,84,8,3061.54,3,2,4,324,Potential Loyalists
+Mike Kennedy,240,11,1031.6000000000001,1,3,2,132,Hibernating
+Mike Pelletier,16,18,4757.34,5,5,5,555,Champions
+Mike Vittorini,19,11,1734.58,5,3,3,533,Champions
+Mitch Gastineau,264,2,16.740000000000002,1,1,1,111,Hibernating
+Mitch Webber,17,14,5341.900000000001,5,4,5,545,Champions
+Mitch Willingham,44,3,5253.88,4,1,5,415,Loyal Customers
+Monica Federle,7,12,1758.3,5,3,3,533,Champions
+Muhammed Lee,100,3,162.23000000000002,3,1,1,311,Potential Loyalists
+Muhammed MacIntyre,85,12,775.41,3,3,1,331,Potential Loyalists
+Muhammed Yedwab,71,19,3601.8799999999997,3,5,4,354,Loyal Customers
+Nancy Lomonaco,58,10,1418.0800000000002,3,3,2,332,Potential Loyalists
+Naresj Patel,25,21,5529.62,5,5,5,555,Champions
+Nat Carroll,224,17,2461.41,2,4,3,243,At Risk
+Nat Gilpin,48,16,1869.57,4,4,3,443,Loyal Customers
+Natalie DeCherney,27,18,4326.14,4,5,5,455,Champions
+Natalie Fritzler,79,13,8080.469999999999,3,4,5,345,Loyal Customers
+Natalie Webber,172,22,7234.02,2,5,5,255,Potential Loyalists
+Nathan Cano,41,14,2218.9900000000002,4,4,3,443,Loyal Customers
+Nathan Gelder,48,9,1395.94,4,2,2,422,Loyal Customers
+Nathan Mautz,160,14,6459.34,2,4,5,245,Potential Loyalists
+Neil Ducich,183,8,2893.46,2,2,4,224,At Risk
+Neil FranzÃƒÂ¶sisch,525,4,377.17,1,1,1,111,Hibernating
+Neil Knudson,70,11,572.0500000000001,3,3,1,331,Potential Loyalists
+Neola Schneider,6,15,2575.87,5,4,3,543,Champions
+Neoma Murray,244,15,2161.98,1,4,3,143,Hibernating
+Nick Crebassa,6,15,8241.74,5,4,5,545,Champions
+Nick Radford,210,13,2367.27,2,4,3,243,At Risk
+Nick Zandusky,85,20,2488.33,3,5,3,353,Loyal Customers
+Nicole Brennan,1165,2,273.87,1,1,1,111,Hibernating
+Nicole Fjeld,114,12,2031.48,2,3,3,233,At Risk
+Nicole Hansen,189,9,2518.67,2,2,3,223,At Risk
+Noah Childs,204,9,1821.75,2,2,3,223,At Risk
+Noel Staavos,174,23,2857.75,2,5,4,254,Potential Loyalists
+Nona Balk,19,17,1972.61,5,4,3,543,Champions
+Nora Paige,58,10,3908.4,3,3,4,334,Potential Loyalists
+Nora Pelletier,406,6,1164.73,1,1,2,112,Hibernating
+Nora Preis,138,13,7903.18,2,4,5,245,Potential Loyalists
+Odella Nelson,410,15,1567.52,1,4,2,142,Hibernating
+Olvera Toch,65,10,3818.62,3,3,4,334,Potential Loyalists
+Pamela Coakley,2,5,1832.07,5,1,3,513,Champions
+Pamela Stobb,107,21,2181.48,2,5,3,253,Potential Loyalists
+Parhena Norris,30,13,1467.16,4,4,2,442,Loyal Customers
+Patricia Hirasaki,70,2,729.6500000000001,3,1,1,311,Potential Loyalists
+Patrick Bzostek,25,10,740.36,5,3,1,531,Champions
+Patrick Gardner,36,26,3086.9,4,5,4,454,Champions
+Patrick Jones,39,13,1220.1,4,4,2,442,Loyal Customers
+Patrick O'Brill,4,22,7473.839999999999,5,5,5,555,Champions
+Patrick O'Donnell,0,13,2493.22,5,4,3,543,Champions
+Patrick Ryan,36,12,1840.18,4,3,3,433,Loyal Customers
+Paul Gonzalez,57,17,1987.15,3,4,3,343,Potential Loyalists
+Paul Knutson,483,3,1441.15,1,1,2,112,Hibernating
+Paul Lucas,15,8,239.49,5,2,1,521,Champions
+Paul MacIntyre,386,4,1405.3999999999999,1,1,2,112,Hibernating
+Paul Prost,97,34,7252.61,3,5,5,355,Loyal Customers
+Paul Stevenson,69,13,1278.65,3,4,2,342,Potential Loyalists
+Paul Van Hugh,89,13,2876.05,3,4,4,344,Loyal Customers
+Pauline Chand,881,3,1061.49,1,1,2,112,Hibernating
+Pauline Johnson,134,7,1677.53,2,2,2,222,At Risk
+Pauline Webber,46,13,3454.91,4,4,4,444,Champions
+Penelope Sewall,236,13,6843.629999999999,1,4,5,145,At Risk
+Pete Armstrong,103,7,729.41,3,2,1,321,Potential Loyalists
+Pete Kriz,9,25,8646.93,5,5,5,555,Champions
+Pete Takahito,71,6,158.47,3,1,1,311,Potential Loyalists
+Peter BÃƒÂ¼hler,57,5,688.3299999999999,3,1,1,311,Potential Loyalists
+Peter Fuller,834,19,9062.859999999999,1,5,5,155,At Risk
+Peter McVee,51,7,4115.66,4,2,4,424,Loyal Customers
+Philip Brown,97,11,1456.95,3,3,2,332,Potential Loyalists
+Philip Fox,196,10,2770.0,2,3,4,234,At Risk
+Philisse Overcash,160,18,4893.05,2,5,5,255,Potential Loyalists
+Phillina Ober,86,10,1056.85,3,3,2,332,Potential Loyalists
+Phillip Breyer,687,2,132.74,1,1,1,111,Hibernating
+Phillip Flathmann,114,10,2206.12,2,3,3,233,At Risk
+Pierre Wener,464,12,3922.41,1,3,4,134,Hibernating
+Quincy Jones,25,13,6108.34,5,4,5,545,Champions
+Rachel Payne,496,12,954.64,1,3,2,132,Hibernating
+Ralph Arnett,5,17,2617.89,5,4,3,543,Champions
+Ralph Kennedy,119,8,1460.19,2,2,2,222,At Risk
+Ralph Ritter,19,4,615.9300000000001,5,1,1,511,Champions
+Randy Bradley,68,6,1008.2,3,1,2,312,Potential Loyalists
+Randy Ferguson,390,16,3309.14,1,4,4,144,At Risk
+Raymond Buch,96,18,15117.349999999999,3,5,5,355,Loyal Customers
+Raymond Messe,345,9,1453.47,1,2,2,122,Hibernating
+Resi PÃƒÂ¶lking,33,25,5153.06,4,5,5,455,Champions
+Ricardo Emerson,1097,1,48.36,1,1,1,111,Hibernating
+Ricardo Sperren,76,9,3221.29,3,2,4,324,Potential Loyalists
+Richard Bierner,41,13,1864.14,4,4,3,443,Loyal Customers
+Richard Eichhorn,302,6,666.52,1,1,1,111,Hibernating
+Rick Bensley,9,23,4715.47,5,5,5,555,Champions
+Rick Duston,72,15,4272.9400000000005,3,4,5,345,Loyal Customers
+Rick Hansen,32,8,3621.38,4,2,4,424,Loyal Customers
+Rick Huthwaite,467,12,6979.18,1,3,5,135,Hibernating
+Rick Reed,170,10,3302.2599999999998,2,3,4,234,At Risk
+Rick Wilson,120,23,7397.400000000001,2,5,5,255,Potential Loyalists
+Ritsa Hightower,519,3,740.39,1,1,1,111,Hibernating
+Rob Beeghly,25,9,528.53,5,2,1,521,Champions
+Rob Dowd,180,18,2832.91,2,5,4,254,Potential Loyalists
+Rob Haberlin,534,11,2085.74,1,3,3,133,Hibernating
+Rob Lucas,121,24,6234.91,2,5,5,255,Potential Loyalists
+Rob Williams,89,16,3279.75,3,4,4,344,Loyal Customers
+Robert Barroso,648,7,221.09,1,2,1,121,Hibernating
+Robert Dilbeck,114,4,2745.89,2,1,4,214,At Risk
+Robert Marley,6,11,5979.089999999999,5,3,5,535,Champions
+Robert Waldorf,79,15,3495.64,3,4,4,344,Loyal Customers
+Roger Barcio,54,7,2067.45,3,2,3,323,Potential Loyalists
+Roger Demir,21,20,1419.74,5,5,2,552,Champions
+Roland Fjeld,89,14,2341.3,3,4,3,343,Potential Loyalists
+Roland Murray,299,2,98.35,1,1,1,111,Hibernating
+Roland Schwarz,36,14,4159.77,4,4,4,444,Champions
+Rose O'Brian,35,12,3815.4700000000003,4,3,4,434,Loyal Customers
+Ross Baird,32,18,5633.31,4,5,5,455,Champions
+Ross DeVincentis,14,16,1137.61,5,4,2,542,Champions
+Roy Collins,369,10,966.4100000000001,1,3,2,132,Hibernating
+Roy FranzÃƒÂ¶sisch,6,10,938.86,5,3,2,532,Champions
+Roy Phan,28,14,2055.35,4,4,3,443,Loyal Customers
+Roy Skaria,19,3,22.330000000000002,5,1,1,511,Champions
+Ruben Ausman,55,13,3546.23,3,4,4,344,Loyal Customers
+Ruben Dartt,114,21,3133.92,2,5,4,254,Potential Loyalists
+Russell Applegate,12,22,4793.53,5,5,5,555,Champions
+Russell D'Ascenzo,42,10,970.95,4,3,2,432,Loyal Customers
+Ryan Akin,61,9,1686.93,3,2,2,322,Potential Loyalists
+Ryan Crowe,110,8,652.64,2,2,1,221,At Risk
+Sally Hughsby,29,24,2465.68,4,5,3,453,Champions
+Sally Knutson,8,5,883.4100000000001,5,1,1,511,Champions
+Sally Matthias,421,6,244.49,1,1,1,111,Hibernating
+Sam Craven,780,17,3362.96,1,5,4,154,At Risk
+Sam Zeldin,35,20,3625.34,4,5,4,454,Champions
+Sample Company A,40,15,4624.57,4,4,5,445,Champions
+Sandra Flanagan,59,9,763.54,3,2,1,321,Potential Loyalists
+Sandra Glassco,8,11,3406.58,5,3,4,534,Champions
+Sanjit Chand,349,22,14142.340000000002,1,5,5,155,At Risk
+Sanjit Engle,9,19,12209.440000000002,5,5,5,555,Champions
+Sanjit Jacobs,95,24,3949.6499999999996,3,5,4,354,Loyal Customers
+Saphhira Shifley,15,21,1324.03,5,5,2,552,Champions
+Sara Luxemburg,70,8,3046.53,3,2,4,324,Potential Loyalists
+Sarah Bern,201,7,1348.02,2,2,2,222,At Risk
+Sarah Brown,188,12,6411.0,2,3,5,235,At Risk
+Sarah Foster,59,15,3422.7799999999997,3,4,4,344,Loyal Customers
+Sarah Jordon,29,10,1341.04,4,3,2,432,Loyal Customers
+Scot Coram,149,11,4371.96,2,3,5,235,At Risk
+Scot Wooten,81,10,1085.06,3,3,2,332,Potential Loyalists
+Scott Cohen,187,18,3729.7999999999997,2,5,4,254,Potential Loyalists
+Scott Williamson,30,7,1966.65,4,2,3,423,Loyal Customers
+Sean Braxton,47,17,8057.89,4,5,5,455,Champions
+Sean Christensen,29,10,3650.4700000000003,4,3,4,434,Loyal Customers
+Sean Miller,79,15,25043.07,3,4,5,345,Loyal Customers
+Sean O'Donnell,29,15,2602.58,4,4,3,443,Loyal Customers
+Sean Wendt,162,6,1019.04,2,1,2,212,At Risk
+Seth Vernon,101,32,11470.939999999999,3,5,5,355,Loyal Customers
+Shahid Collister,30,20,5992.530000000001,4,5,5,455,Champions
+Shahid Hopkins,23,15,2180.7,5,4,3,543,Champions
+Shahid Shariari,110,12,3056.81,2,3,4,234,At Risk
+Sharelle Roach,8,9,3233.48,5,2,4,524,Champions
+Shaun Chance,36,10,1875.0,4,3,3,433,Loyal Customers
+Shaun Weien,162,8,2835.56,2,2,4,224,At Risk
+Sheri Gordon,183,14,1884.8000000000002,2,4,3,243,At Risk
+Shirley Daniels,200,21,6121.1,2,5,5,255,Potential Loyalists
+Shirley Jackson,253,7,1318.77,1,2,2,122,Hibernating
+Shirley Schmidt,491,6,613.4,1,1,1,111,Hibernating
+Shui Tom,125,12,433.34,2,3,1,231,At Risk
+Sibella Parks,327,10,1306.09,1,3,2,132,Hibernating
+Skye Norling,111,15,1860.42,2,4,3,243,At Risk
+Sonia Cooley,92,6,799.8000000000001,3,1,1,311,Potential Loyalists
+Sonia Sunley,432,9,418.49,1,2,1,121,Hibernating
+Speros Goranitis,108,12,3118.9,2,3,4,234,At Risk
+Stefania Perrino,47,24,5440.32,4,5,5,455,Champions
+Stefanie Holloman,764,2,2096.3900000000003,1,1,3,113,Hibernating
+Stephanie Phelps,386,15,1872.4299999999998,1,4,3,143,Hibernating
+Stephanie Ulpright,20,18,2595.38,5,5,3,553,Champions
+Steve Carroll,126,8,1254.64,2,2,2,222,At Risk
+Steve Chapman,89,14,2576.4,3,4,3,343,Potential Loyalists
+Steve Nguyen,79,19,3127.97,3,5,4,354,Loyal Customers
+Steven Cartwright,187,26,5226.2,2,5,5,255,Potential Loyalists
+Steven Roelle,196,12,4345.88,2,3,5,235,At Risk
+Steven Ward,534,8,758.6899999999999,1,2,1,121,Hibernating
+Stewart Carmichael,41,21,4492.68,4,5,5,455,Champions
+Stewart Visinsky,320,25,4105.32,1,5,4,154,At Risk
+Stuart Calhoun,30,5,279.25,4,1,1,411,Loyal Customers
+Stuart Van,76,6,1271.0900000000001,3,1,2,312,Potential Loyalists
+Sue Ann Reed,63,21,4767.34,3,5,5,355,Loyal Customers
+Sung Chung,414,1,14.11,1,1,1,111,Hibernating
+Sung Pak,79,24,4282.92,3,5,5,355,Loyal Customers
+Sung Shariari,120,15,964.6300000000001,2,4,2,242,At Risk
+Susan Gilcrest,226,5,47.95,2,1,1,211,At Risk
+Susan MacKendrick,606,6,1043.05,1,1,2,112,Hibernating
+Susan Pistek,70,14,3990.6699999999996,3,4,4,344,Loyal Customers
+Susan Vittorini,2,13,1903.49,5,4,3,543,Champions
+Suzanne McNair,25,20,4464.87,5,5,5,555,Champions
+Sylvia Foulston,48,17,3336.53,4,5,4,454,Champions
+Tamara Chand,399,12,19052.22,1,3,5,135,Hibernating
+Tamara Dahlen,37,16,1434.56,4,4,2,442,Loyal Customers
+Tamara Manning,103,15,2819.0299999999997,3,4,4,344,Loyal Customers
+Tamara Willingham,64,12,5278.82,3,3,5,335,Potential Loyalists
+Tanja Norvell,90,12,3130.23,3,3,4,334,Potential Loyalists
+Ted Butterfield,119,17,1451.3700000000001,2,5,2,252,Potential Loyalists
+Ted Trevino,31,14,4915.59,4,4,5,445,Champions
+Thais Sissman,357,2,4.84,1,1,1,111,Hibernating
+Thea Hendricks,344,7,2422.83,1,2,3,123,Hibernating
+Thea Hudgings,58,9,2942.78,3,2,4,324,Potential Loyalists
+Theone Pippenger,8,16,4454.06,5,4,5,545,Champions
+Theresa Coyne,106,4,1038.26,2,1,2,212,At Risk
+Theresa Swint,504,17,2163.63,1,5,3,153,At Risk
+Thomas Boland,58,11,3589.2899999999995,3,3,4,334,Potential Loyalists
+Thomas Brumley,49,4,816.1700000000001,4,1,1,411,Loyal Customers
+Thomas Seio,198,19,5371.11,2,5,5,255,Potential Loyalists
+Thomas Thornton,183,15,1427.05,2,4,2,242,At Risk
+Tiffany House,117,13,1022.21,2,4,2,242,At Risk
+Tim Brockman,349,19,1602.3700000000001,1,5,2,152,At Risk
+Tim Taslimi,406,3,439.5,1,1,1,111,Hibernating
+Toby Braunhardt,583,11,2198.46,1,3,3,133,Hibernating
+Toby Carlisle,27,16,4266.8099999999995,4,4,5,445,Champions
+Toby Gnade,337,9,3058.38,1,2,4,124,Hibernating
+Toby Ritter,193,7,675.9399999999999,2,2,1,221,At Risk
+Toby Swindell,226,12,974.78,2,3,2,232,At Risk
+Todd Boyes,146,13,834.33,2,4,1,241,At Risk
+Todd Sumrall,36,15,11891.75,4,4,5,445,Champions
+Tom Ashbrook,69,10,14595.619999999999,3,3,5,335,Potential Loyalists
+Tom Boeckenhauer,202,16,9108.74,2,4,5,245,Potential Loyalists
+Tom Prescott,104,10,5328.98,3,3,5,335,Potential Loyalists
+Tom Stivers,172,7,2054.14,2,2,3,223,At Risk
+Tonja Turnell,12,14,5364.8,5,4,5,545,Champions
+Tony Chapman,153,11,1244.98,2,3,2,232,At Risk
+Tony Molinari,130,4,1094.6799999999998,2,1,2,212,At Risk
+Tony Sayre,11,14,2243.28,5,4,3,543,Champions
+Tracy Blumstein,107,20,4737.48,2,5,5,255,Potential Loyalists
+Tracy Collins,4,10,742.5500000000001,5,3,1,531,Champions
+Tracy Hopkins,72,13,4234.1,3,4,4,344,Loyal Customers
+Tracy Poddar,350,10,1936.62,1,3,3,133,Hibernating
+Tracy Zic,35,9,1707.28,4,2,2,422,Loyal Customers
+Troy Blackwell,285,5,1240.88,1,1,2,112,Hibernating
+Troy Staebel,55,11,2820.42,3,3,4,334,Potential Loyalists
+Trudy Brown,30,15,2797.68,4,4,4,444,Champions
+Trudy Glocke,114,10,2074.67,2,3,3,233,At Risk
+Trudy Schmidt,238,14,3368.08,1,4,4,144,At Risk
+Valerie Dominguez,581,16,6442.26,1,4,5,145,At Risk
+Valerie Mitchum,54,12,2454.87,3,3,3,333,Potential Loyalists
+Valerie Takahito,999,9,1736.6,1,2,3,123,Hibernating
+Vicky Freymann,13,11,847.95,5,3,1,531,Champions
+Victor Preis,30,5,993.9,4,1,2,412,Loyal Customers
+Victoria Brennan,54,10,2005.59,3,3,3,333,Potential Loyalists
+Victoria Pisteka,75,14,3360.54,3,4,4,344,Loyal Customers
+Victoria Wilson,28,18,6134.040000000001,4,5,5,455,Champions
+Vivek Gonzalez,154,8,846.02,2,2,1,221,At Risk
+Vivek Grady,491,5,418.43,1,1,1,111,Hibernating
+Vivek Sundaresam,221,8,1055.99,2,2,2,222,At Risk
+Vivian Mathis,117,8,380.69,2,2,1,221,At Risk
+William Brown,20,35,6129.71,5,5,5,555,Champions
+Xylona Preis,43,28,2374.66,4,5,3,453,Champions
+Yana Sorensen,9,12,6720.4400000000005,5,3,5,535,Champions
+Yoseph Carroll,4,8,5454.35,5,2,5,525,Champions
+Zuschuss Carroll,54,31,8025.7,3,5,5,355,Loyal Customers
+Zuschuss Donatelli,202,9,1493.94,2,2,2,222,At Risk
